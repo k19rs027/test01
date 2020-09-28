@@ -26,7 +26,7 @@ Making *Unordered* list is very easy.
 You can jump to [GitHub](https://github.com) easily.
 
 ## Section 5
-This is so easy.
+Table is so easy.
 
 |Team   | Win | Lose | Draw |
 |-------|----:|-----:|-----:|
