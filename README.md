@@ -10,9 +10,9 @@ This is my second paragraph.
 ## Section 2
 Making *Unordered* list is easy.
 
--1st item
--2nd item
--3rd item
+- 1st item
+- 2nd item
+- 3rd item
 
 ## Section 3
 *Ordered* list is very useful.
